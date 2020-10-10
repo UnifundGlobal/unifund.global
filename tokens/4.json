@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0xc778417e063141139fce010982780140aa0cd5ab",
+    "chainId": 4,
+    "name": "WrappedEther",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://1inch.exchange/assets/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+  },
+  {
+    "address": "0xd09cc3bc67e4294c4a446d8e4a2934a921410ed7",
+    "chainId": 4,
+    "name": "ERC20",
+    "symbol": "ERC20",
+    "decimals": 18,
+    "logoURI": "https: //1inch.exchange/assets/tokens/0x0000000000b3f879cb30fe243b4dfee438691c04.png"
+  },
+  {
+    "address": "0x17e91224c30c5b0B13ba2ef1E84FE880Cb902352",
+    "chainId": 4,
+    "name": "UNIFUND",
+    "symbol": "iFUND",
+    "decimals": 18,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x59f96b8571e3b11f859a09eaf5a790a138fc64d0.png"
+  }
+]
