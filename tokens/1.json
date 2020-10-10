@@ -1,5 +1,21 @@
 [
   {
+    "address": "0x8eb24319393716668d768dcec29356ae9cffe285",
+    "chainId": 1,
+    "name": "SingularityNET",
+    "symbol": "AGI",
+    "decimals": 8,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x8eb24319393716668d768dcec29356ae9cffe285.png"
+  },
+  {
+    "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "chainId": 1,
+    "name": "OceanProtocol ",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png"
+  },
+  {
     "address": "0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0",
     "chainId": 1,
     "name": "UNIFUND",
