@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x212DD60D4Bf0DA8372fe8116474602d429E5735F",
+    "chainId": 1,
+    "name": "Stobox",
+    "symbol": "STBU",
+    "decimals": 8,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x212DD60D4Bf0DA8372fe8116474602d429E5735F.png"
+  },
+  {
     "address": "0x8eb24319393716668d768dcec29356ae9cffe285",
     "chainId": 1,
     "name": "SingularityNET",
