@@ -1,5 +1,29 @@
 [
   {
+    "address": "0x212DD60D4Bf0DA8372fe8116474602d429E5735F",
+    "chainId": 1,
+    "name": "Stobox",
+    "symbol": "STBU",
+    "decimals": 8,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x212DD60D4Bf0DA8372fe8116474602d429E5735F.png"
+  },
+  {
+    "address": "0x8eb24319393716668d768dcec29356ae9cffe285",
+    "chainId": 1,
+    "name": "SingularityNET",
+    "symbol": "AGI",
+    "decimals": 8,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x8eb24319393716668d768dcec29356ae9cffe285.png"
+  },
+  {
+    "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+    "chainId": 1,
+    "name": "OceanProtocol ",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x967da4048cd07ab37855c090aaf366e4ce1b9f48.png"
+  },
+  {
     "address": "0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0",
     "chainId": 1,
     "name": "UNIFUND",
