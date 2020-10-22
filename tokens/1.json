@@ -8,14 +8,6 @@
     "logoURI": "https://1inch.exchange/assets/tokens/0xA866F0198208Eb07c83081d5136BE7f775c2399e.png"
   },
   {
-    "address": "0x1DE5e000C41C8d35b9f1f4985C23988f05831057",
-    "chainId": 1,
-    "name": "BonFi",
-    "symbol": "BNF",
-    "decimals": 18,
-    "logoURI": "https://1inch.exchange/assets/tokens/0x1DE5e000C41C8d35b9f1f4985C23988f05831057.png"
-  },
-  {
     "address": "0x212DD60D4Bf0DA8372fe8116474602d429E5735F",
     "chainId": 1,
     "name": "Stobox",
