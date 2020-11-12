@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "chainId": 3,
+    "name": "WrappedEther",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://1inch.exchange/assets/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+  },
+  {
+    "address": "0x947a9c2B896684Cd2A201a846C7896eE0e9aB817",
+    "chainId": 3,
+    "name": "UNIFUND",
+    "symbol": "iFUND",
+    "decimals": 18,
+    "logoURI": "/static/media/logo.37e0d004.png"
+  }
+]
