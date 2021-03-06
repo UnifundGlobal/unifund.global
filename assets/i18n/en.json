@@ -48,15 +48,9 @@
   "TOTAL_CAP": "Total Capitalization",
   "VOLUME": "Volume",
   "LANGUAGES": [{
-      "KEY": "EN",
-      "VALUE": "EN"
-    }
-    // TODO: temporarily disabled, gonn add it back when all translations are there
-    //{ "KEY": "FR", "VALUE": "FR" },
-    //{ "KEY": "NL", "VALUE": "NL" },
-    //{ "KEY": "ZH", "VALUE": "ZH" },
-    //{ "KEY": "DE", "VALUE": "DE" }
-  ],
+    "KEY": "EN",
+    "VALUE": "EN"
+  }],
   "INTRO": {
     "TUTORIAL": {
       "FIRST": {
