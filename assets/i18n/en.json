@@ -36,7 +36,7 @@
   "CREATE_GROUP": "Become A Fund Manager",
   "JOIN_GROUP": "Join A Fund",
   "STAKE": "Stake $iFUND",
-  "HIGH_YIELD_STAKING": "High Yield Staking",
+  "HIGH_YIELD_STAKING": "Staking",
   "WELCOME": "Welcome to Unifund",
   "WELCOME_SUB": "What would you like to do?",
   "TOTAL_SUPPLY": "Total Supply",
@@ -47,12 +47,15 @@
   "MKT_CAP": "Market Capitalization",
   "TOTAL_CAP": "Total Capitalization",
   "VOLUME": "Volume",
-  "LANGUAGES": [
-    { "KEY": "EN", "VALUE": "EN" },
-    { "KEY": "FR", "VALUE": "FR" },
-    { "KEY": "NL", "VALUE": "NL" },
-    { "KEY": "ZH", "VALUE": "ZH" },
-    { "KEY": "DE", "VALUE": "DE" }
+  "LANGUAGES": [{
+      "KEY": "EN",
+      "VALUE": "EN"
+    }
+    // TODO: temporarily disabled, gonn add it back when all translations are there
+    //{ "KEY": "FR", "VALUE": "FR" },
+    //{ "KEY": "NL", "VALUE": "NL" },
+    //{ "KEY": "ZH", "VALUE": "ZH" },
+    //{ "KEY": "DE", "VALUE": "DE" }
   ],
   "INTRO": {
     "TUTORIAL": {
@@ -102,7 +105,7 @@
       "test": "1234",
       "INTRO": "UNIFUND trading groups are the next generation of social trading. By creating or joining a group you get access to endless benefits",
       "BULLETS": [
-	      "A decentralized free market system for risk model creation",
+        "A decentralized free market system for risk model creation",
         "Reduces network congestion by consolidating trades",
         "Completely eliminate your trading fees by joining groups",
         "Access additional capital to maximize profitability",
@@ -115,7 +118,7 @@
       "INTRO": "Trade Groups are the central point of generative value within our contract system’s design. Utilized wisely, participation in these groups will save you both time and money, eliminating trading fees and consolidating high-stakes decision-making. This opt-in group structure also aligns the incentives of previously competing traders, creating an interesting middle ground where collaboration leads to greater profits for all.",
       "BULLETS": [
         "The Stake Ratio is determined by comparing the value of the leaders iFUND collateral, to the value of the ETH the group will trade with",
-	"The stake ratio is a major factor in the groups risk profile",
+        "The stake ratio is a major factor in the groups risk profile",
         "because the leaders stake is slashed on losses, the closer these numbers are, the more even the risk is for both parties",
         "a higher iFUND value favors the group and a higher ETH value favors the manager.",
         "The stake ratio, trade list, run time, and entry fee are the main factors in a groups risk profile"
@@ -212,8 +215,7 @@
     "TITLE": "Unifund For Investors",
     "INTRO": "The goal of every cryptocurrency investor is to position their capital today so as to profit from future developments. Easier said than done. It’s reported that 86% of cryptocurrency traders admit that, inexperience, limited capital, lack of inside knowledge alongside stressful & competitive trading environments + the added expense of trading & gas fee’s are emptying their pockets. <br/><br/> This inspired us to engineer the world’s first social trading group platform that introduces the every day innovative investors to join risk-adjusted mutual funds, or trade groups, built & managed by skilled traders. This legacy approach to investing leverages pooled capital to maximize profitability, evenly distribute risk amongst stake-holders and pocket those profits all while participating in a global community united by crypto, as it should be.",
     "BECOME_INVESTOR": "Become an Investor | How to Join A Fund",
-    "BULLETS": [
-      {
+    "BULLETS": [{
         "heading": "Get $iFUND <a href=\"https://bit.ly/myIFUND\" target=\"_blank\">bit.ly/myIFUND</a>",
         "paragraph": "Our native token ‘iFUND’ is required to pay for Fund entry fee’s set by the Fund Manager."
       },
@@ -235,8 +237,7 @@
     "TITLE": "Unifund For Fund Managers",
     "INTRO": "The skill of Cryptocurrency trading is truly an artform, and many experienced traders have invested years of their time, and individual capital into developing their craft and earning consistent, steady profits while building a strong portfolio. <br/><br/> With Unifunds incentivized trade groups, any skilled trader can instantly become a Fund Manager and leverage pooled capital to yield higher profits, reduce market competition and earn a sizeable profit take % at fund maturity - will you be the next to claim the fame as Top Fund Manager on the Global Unifund Leaderboard!",
     "BECOME_INVESTOR": "Become a Fund Manager | How to Create a Fund",
-    "BULLETS": [
-      {
+    "BULLETS": [{
         "heading": "Get $iFUND <a href=\"https://bit.ly/myIFUND\" target=\"_blank\">bit.ly/myIFUND</a>",
         "paragraph": "Our native token ‘iFUND’ will act as the collateral for the Funds ‘Stake Ratio’. This ratio determines how investors grade the risk profile by comparing the value of the leaders iFUND collateral, to the value of the ETH the group will trade with on the Uniswap Protocol."
       },
@@ -261,8 +262,7 @@
   "LAUNCH_APP": "Launch Platform",
   "SECTION_FAQ": {
     "HEADER": "Frequently Asked Questions",
-    "QA": [
-      {
+    "QA": [{
         "QUESTION": "What will you do if this contract breaks?",
         "ANSWER": "If such a circumstance arises, we will migrate to a new contract and send all users the new token at a 1:1 ratio."
       },
