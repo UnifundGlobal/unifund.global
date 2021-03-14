@@ -1,0 +1,312 @@
+{
+  "ANNOUNCEMENT": {
+    "TITLE": "Trading Competition",
+    "CONTENT": "<h3>Unifund | $iFund is proud to announce the first official Unifund Global Cryptocurrency Trading Competition with over 500k $iFund in Prizes.</h3> <p>On December 23rd the Fund Managers with the highest ETH gain and highest percent gain will receive the Grand Prize of 200K $iFUND each. An additional 50k iFUND will be split between members who joins the group.</p> <p>The competition will be host to the top international cryptocurrency traders, or Fund Managers, to be the first to trade using Unifund.Global&rsquo;s innovative Trading Platform built for token trading upon the Uniswap DEX Protocol.</p> <p style=\"font-weight: bold;\">Useful Links</p> <p>Get iFUND on Uniswap <a class=\"accent-color\" href=\"bit.ly/myIFUND\"><span>bit.ly/myIFUND</span></a>.</p> <p><span>Telegram </span><a class=\"accent-color\" href=\"https://t.me/UnifundGlobal\">https://t.me/UnifundGlobal</a></p> <p><span>Discord </span><a class=\"accent-color\" href=\"https://discord.gg/tGRdfsm\">https://discord.gg/tGRdfsm</a></p> <p><span>Twitter </span><a class=\"accent-color\" href=\"twitter.com/UnifundGlobal\">twitter.com/UnifundGlobal</a></p> <p><span>Medium </span><a class=\"accent-color\" href=\"https://medium.com/@UnifundGlobal\">https://medium.com/@UnifundGlobal</a></p> <p style=\"font-weight: bold;\">Group Criteria:</p> <p>To qualify, groups must...</p> <ul> <li>Have at least 3 members including the manager.</li> <li>Start with at least 10 ETH in trading capital.</li> <li>Have a minimum of 50k iFUND as their groups collateral.</li> </ul> <p>Fund Managers &amp; Investors will be required to cover any/all gas fee&rsquo;s associated with their Investment Contribution, Entry Fee, Collateral Stake and any Trades submitted via the Unifund Trading Platform</p> <p>Unifund reserves the right to disqualify trades that are deemed to be wash trades or illegal bulk registration wallets, self-dealing or display attributes of market manipulation, etc..</p> <p>Unifund reserves the right to cancel or amend any Activity or Activity Rules at our sole discretion.</p> <p>Risk warning:</p> <p>Cryptocurrency investment is subject to high market risk. Unifund is not responsible for any direct, indirect or consequential losses as a result of the trading competition. Please make your investments with caution.</p>"
+  },
+  "TRADING_COMPETITION": {
+    "INTRO": "Unifund | $iFund is proud to announce the first Unifund Global Cryptocurrency Trading Competition.",
+    "TITLE": "Unifund Trading Competition",
+    "SUB": "On December 23rd the Fund Managers with the highest ETH gain and highest percent gain will receive the Grand Prize of 200K $iFUND each. An additional 50k iFUND will be split between members who joins the group.",
+    "DESCRIPTION": "The competition will be host to the top international cryptocurrency traders, or Fund Managers, to be the first to trade using Unifund.Global’s innovative Trading Platform built for token trading upon the Uniswap DEX Protocol."
+  },
+  "LEARN_MORE": "Learn More",
+  "REGISTER": "Register",
+  "ATTENTION": "Attention",
+  "PRICE": "Price",
+  "IFUND_LISTED_ON_UNISWAP": "$iFUND is now listed on Uniswap.",
+  "IFUND_TOKEN_HOLDERS": "$iFUND token holders will be able to create a trading fund in order to trade on the behalf of joined users. This system keeps the fees low and allows users to get into our high yield staking program to earn more $iFUND.",
+  "START_HERE": "Start Here",
+  "TOKEN": "Token",
+  "COMMUNITY": "Community",
+  "DEVELOPMENT": "Development",
+  "THE_PROJECT": "The Project",
+  "FOR_INVESTORS": "For Investors",
+  "FOR_FUND_MANAGERS": "For Fund Managers",
+  "TOKENOMICS": "Tokenomics",
+  "EXPLORE_CONTRACT": "Explore Contract",
+  "GET_TOKEN": "Get $iFUND",
+  "PAGE_TITLE": "UNIFUND",
+  "TWITTER": "Twitter",
+  "TELEGRAM": "Telegram",
+  "DISCORD": "Discord",
+  "MEDIUM": "Medium",
+  "ROADMAP": "Roadmap",
+  "ANNOUNCEMENTS": "Announcements",
+  "AUDIT": "Audit",
+  "CREATE_GROUP": "Become A Fund Manager",
+  "JOIN_GROUP": "Join A Fund",
+  "STAKE": "Stake $iFUND",
+  "HIGH_YIELD_STAKING": "Staking",
+  "WELCOME": "Welcome to Unifund",
+  "WELCOME_SUB": "What would you like to do?",
+  "TOTAL_SUPPLY": "Total Supply",
+  "CIRC_SUPPLY": "Circulating Supply",
+  "STILL_QUESTIONS": "Do you still have any questions?",
+  "TALK_TO_A_HUMAN": "Need a Human?",
+  "MSG_US": "Msg Us!",
+  "MKT_CAP": "Market Capitalization",
+  "TOTAL_CAP": "Total Capitalization",
+  "VOLUME": "Volume",
+  "LANGUAGES": [{
+      "KEY": "EN",
+      "VALUE": "EN"
+    },
+    {
+      "KEY": "FR",
+      "VALUE": "FR"
+    },
+    {
+      "KEY": "NL",
+      "VALUE": "NL"
+    },
+    {
+      "KEY": "ZH",
+      "VALUE": "ZH"
+    },
+    {
+      "KEY": "DE",
+      "VALUE": "DE"
+    }
+  ],
+  "INTRO": {
+    "TUTORIAL": {
+      "FIRST": {
+        "TITLE": "Welcome to UNIFUND.global!",
+        "BODY": "We are taking advantage of the decentralized nature of blockchain technology to provide a professional access point to a unique investment possibility lead by seasoned traders and industry professionals. <br>Please follow our quick tutorial…</br>"
+      }
+    }
+  },
+  "LINKS": {
+    "ABOUT": "About",
+    "STAKING": "Staking",
+    "LEADER_BOARDS": "Leaderboards",
+    "GROUPS": "Groups",
+    "CREATE_GROUP": "Create Group",
+    "DISCONNECT_WALLET": "Disconnect",
+    "CONTACT": "Contact",
+    "TOKEN": "Token & Staking",
+    "FEATURES": "Features",
+    "FAQ": "FAQ",
+    "ROADMAP": "Roadmap",
+    "GAMIFICATION": "Gamification",
+    "AUDIT": "Audit"
+  },
+  "HEADERS": {
+    "TRADING_GROUPS": "Decentralized Trading Groups",
+    "ANON_DEVS": "Anon Devs",
+    "HONEST_BRANDING": "Honest branding",
+    "UNIQUE_SYSTEM": "Unique System",
+    "LEADERBOARDS": "Leaderboards",
+    "ABOUT": "A new Token to create incentivized Trading Groups"
+  },
+  "BODY": {
+    "TRADING_GROUPS": "Creating Uniswap trade groups",
+    "ANON_DEVS": "experienced team - let code speak for it self - in crypto since it was just Bitcoin",
+    "UNIQUE_SYSTEM": "not a fork - all original code - built from ground up",
+    "LEADERBOARDS": "Leaderboards",
+    "CREATE_PUMP_GROUPS": "Creating Uniswap Trade groups groups",
+    "COIN_STAKING": "Coin staking",
+    "PUMP_CONTESTS": "Trading contests",
+    "ACCESS_TO_MORE_CAPITAL": "Get access to more capital in exchange for a percentage of the returns",
+    "LENDERS_REFUND": "Lenders are refunded some of the Managers collateral in the case of losses"
+  },
+  "SECTION_ABOUT": {
+    "HEADER": "<h2>Incentivized Trading Groups</h2>",
+    "BODY": {
+      "test": "1234",
+      "INTRO": "UNIFUND trading groups are the next generation of social trading. By creating or joining a group you get access to endless benefits",
+      "BULLETS": [
+        "A decentralized free market system for risk model creation",
+        "Reduces network congestion by consolidating trades",
+        "Completely eliminate your trading fees by joining groups",
+        "Access additional capital to maximize profitability",
+        "Aligns incentives of previously competing traders",
+        "Enables the creation of new and completely customizable risk to reward models"
+      ]
+    },
+    "HOW_IT_WORKS": {
+      "HEADER": "<h3>How It Works</h3>",
+      "INTRO": "Trade Groups are the central point of generative value within our contract system’s design. Utilized wisely, participation in these groups will save you both time and money, eliminating trading fees and consolidating high-stakes decision-making. This opt-in group structure also aligns the incentives of previously competing traders, creating an interesting middle ground where collaboration leads to greater profits for all.",
+      "BULLETS": [
+        "The Stake Ratio is determined by comparing the value of the leaders iFUND collateral, to the value of the ETH the group will trade with",
+        "The stake ratio is a major factor in the groups risk profile",
+        "because the leaders stake is slashed on losses, the closer these numbers are, the more even the risk is for both parties",
+        "a higher iFUND value favors the group and a higher ETH value favors the manager.",
+        "The stake ratio, trade list, run time, and entry fee are the main factors in a groups risk profile"
+      ],
+      "WARNING": "A group that uses a custom list is very dangerous, and can be used to steal from the group",
+      "TRADE_GROUP_METRICS": {
+        "HEADER": "Trading Group Metrics",
+        "INTRO": "When Fund Managers open a Trade Group, they must set configuration for the following attributes, resulting in a qualitative risk-to-reward profile which potential Trade Group participants can review:",
+        "BULLETS": [
+          "The amount of iFUND Tokens they will initially stake as the group collateral",
+          "The amount of iFUND Tokens users will pay as a fee to join the group",
+          "The list of specific Uniswap pairs they’ll trade with the group’s pooled ETH",
+          "The duration of the Trade Group’s lifespan (set in days or weeks)",
+          "The maximum limit of funds (in ETH) that the group will be able to accept",
+          "The maximum limit of funds (in ETH) that each user can contribute to the group."
+        ],
+        "SUB": "While opening a Trade Group is free, by staking their own UPP Tokens, Fund Managers reduce other participants’ risk of loss and thus incentivize more people to join their Trade Group. In turn, this gives Fund Managers more capital to trade with, and lets them collect maximum Token fees from group participants. For those participants, the fees collected are minimal compared to the potential on-chain fees if they were to make all the same trades themselves."
+      }
+    }
+  },
+  "SECTION_TOKEN": {
+    "HEADER": "<h2>About The Token</h2>",
+    "INTRO": "The full supply of thirty seven million {{value}} maximum Tokens was issued upon contract creation.",
+    "BULLETS": [
+      "40% was sold for ETH, during the token generation event",
+      "20% is locked in a UniSwap liquidity pool with half the ETH from the pre-sale",
+      "10% is used for staking rewards",
+      "10% is reserved for trading contests",
+      "5% is dedicated to the project’s marketing budget",
+      "15% is locked for team allocation over time"
+    ],
+    "TOKEN_USAGE": "<h3>The iFUND Token is used in three ways:</h3> <ol> <li>Staking for rewards.</li> <li>As collateral to open Trade Groups.</li> <li>Fees to join Trade Groups.</li> </ol>",
+    "TOKEN_USAGE_DESCRIPTION": "All of these use cases involve locking the token. Group entry fees are locked with the Fund Manager’s collateral until the end of the round, while other users can stake for rewards risk-free. <br/><br/> The team’s dedicated share of tokens will be slowly unlocked over time, to protect against the toxic stereotype of crypto teams dumping their tokens all at once, causing a potentially negative market event."
+  },
+  "SECTION_STAKING": {
+    "HEADER": "<h2>Staking</h2>",
+    "INTRO": "More details of our new staking system will be released soon. The reward pool for staking is over 3 million iFUND tokens.",
+    "BULLETS": [
+      "Staking will be active for at leaast 6 months as the rewards are distributed",
+      "Staking rewards will go down over time, as an extra benifit to early users"
+    ]
+  },
+  "SECTION_GAMIFICATION": {
+    "TITLE": "Game Theory of Unifund’s Social Trading Platform",
+    "SUB_ONE": "Leaderboards",
+    "PARAGRAPH_ONE": "Two immutable Leaderboards built into the system will showcase top Fund Managers by both notional and percent. Granting the opportunity to climb the leaderboards and develop a strong reputation.<br/><br/> This system’s design has additional higher-level benefits for the Ethereum ecosystem. It helps small traders, reducing overall network load and congestion by consolidating so many disparate trades.<br/><br/> Recently, Uniswap trades can cost anywhere from five dollars ($5) to more than twenty dollars ($20) in network congested times. By establishing a norm where many traders are pooling their funds under a single Fund Manager’s temporary control, the fees would be eliminated for the user and offset for the Fund Manager based on their gains.",
+    "SUB_TWO": "Trade Contests & Unifund Sponsored Campaigns",
+    "PARAGRAPH_TWO": "Transitioning the thrill of the market to a socially harmonized smart contract doesn’t have to mean losing all the fun of that market’s rollercoaster. With this in mind, we’ve designed some contests which will further gamify users’ participation in this system. Every month for ten (10) months, three hundred seventy thousand (370,000 iFUND) tokens will be awarded, dispensed as six (6) distinct prizes. <br/><br/> In each of these contests, the automatic prizes will be delivered to the top three (3) Fund Managers by notional gain, and the top three (3) Fund Managers by percent gain. As the platform develops we may alter the reward structure if we find something better suited. Within those tiers, distribution of prize tokens will be awarded as follows:",
+    "DESCRIPTION": "Two immutable leaderboards built into the system will showcase top Fund Managers by both notional and percent. Granting the opportunity to climb the leaderboards and develop a strong reputation. <br/><br/> This system’s design has additional higher-level benefits for the Ethereum ecosystem. It helps small traders, reducing overall network load and congestion by consolidating so many disparate trades. <br/> <br/> Recently, Uniswap trades can cost anywhere from five dollars ($5) to more than twenty dollars ($20) in network congested times. By establishing a norm where many traders are pooling their funds under a single Fund Manager’s temporary control, the fees would be eliminated for the user and offset for the Fund Manager based on their gains.",
+    "TRADE_CONTESTS": {
+      "HEADER": "Trade Contests",
+      "INTRO": "Transitioning the thrill of the market to a socially harmonized smart contract doesn’t have to mean losing all the fun of that market’s rollercoaster. With this in mind, we’ve designed some contests which will further gamify users’ participation in this system. Every month for ten (10) months, three hundred seventy thousand ({{value}} iFUND) tokens will be awarded, dispensed as six (6) distinct prizes. <br/><br/> In each of these contests, the automatic prizes will be delivered to the top three (3) Fund Managers by notional gain, and the top three (3) Fund Managers by percent gain. As the platform develops we may alter the reward structor if we find something better suited. Within those tiers, distribution of prize tokens will be awarded as follows:",
+      "TABLE": {
+        "GROUP": "Group",
+        "PRICE": "Price",
+        "FIRST_PRICE": "First Prize",
+        "SECOND_PRICE": "Second Prize",
+        "THIRD_PRICE": "Third Prize",
+        "WINNING_GROUP": "Winning Group",
+        "RECEIVES_REWARD": "Receives {{value}} iFUND Tokens"
+      }
+    }
+  },
+  "SECTION_AUDIT": {
+    "HEADER": "Hacken Audit",
+    "INTRO": "We successfully passed the Hacken Code Review and Security analysis of our Group Manager contract. This audit ensures that it is safe to use our product to create trading groups for any investors and traders. Feel free to dig into the audit paper for the details.",
+    "SUMMARY": "TL;DR - As a summary we can present you the following:",
+    "CRITICAL_SEVERITY": "No critical severity issues were found.",
+    "HIGH_SEVERITY": "No high severity issues were found.",
+    "MEDIUM_SEVERITY": "No medium severity issues were found.",
+    "LOW_SEVERITY": "No low severity issues were found.",
+    "READ_DETAILS": "Audit details",
+    "CRITICAL": "Critical",
+    "HIGH": "High",
+    "MEDIUM": "Medium",
+    "LOW": "Low"
+  },
+  "SECTION_THE_PROJECT": {
+    "QUOTE": "\"In life, as in Chess, one’s own Pawns block ones way. <br/> A man’s very wealth, thoughts and emotions which should often help him to win, more often checkmate him.\"",
+    "TITLE": "Say goodbye to portfolio checkmate.",
+    "SUB": "86% of Cryptocurrency Traders reported that inexperience, limited capital, stressful trading environments & outrageous gas fee’s were emptying their pockets. <strong> That all changes now. </strong>",
+    "SECOND_TITLE": "Introducing UNIFUND",
+    "SUMMARY": "The World’s first Cryptocurrency Mutual Fund Trading Platform for the open creation of trustless social trading groups utilizing Uniswap Protocol Tokens.",
+    "BULLETS": [
+      "Decentralized Free Market Platform allowing Risk-Adjusted Mutual Fund Creation.",
+      "Reduces Protocol & Network congestion by consolidating trades.",
+      "Eliminates trading fees by joining funds, or ‘social trade groups’.",
+      "Pooled Capital maximizes profitability while evenly distributing risk.",
+      "Aligns incentives & risk tolerance of previously competing traders.",
+      "Trade Contests & Leaderboards encourage skilled traders to perform at their best to earn a higher profit-take % as reputation & demand soars."
+    ]
+  },
+  "SECTION_FOR_INVESTORS": {
+    "TITLE": "Unifund For Investors",
+    "INTRO": "The goal of every cryptocurrency investor is to position their capital today so as to profit from future developments. Easier said than done. It’s reported that 86% of cryptocurrency traders admit that, inexperience, limited capital, lack of inside knowledge alongside stressful & competitive trading environments + the added expense of trading & gas fee’s are emptying their pockets. <br/><br/> This inspired us to engineer the world’s first social trading group platform that introduces the every day innovative investors to join risk-adjusted mutual funds, or trade groups, built & managed by skilled traders. This legacy approach to investing leverages pooled capital to maximize profitability, evenly distribute risk amongst stake-holders and pocket those profits all while participating in a global community united by crypto, as it should be.",
+    "BECOME_INVESTOR": "Become an Investor | How to Join A Fund",
+    "BULLETS": [{
+        "heading": "Get $iFUND <a href=\"https://bit.ly/myIFUND\" target=\"_blank\">bit.ly/myIFUND</a>",
+        "paragraph": "Our native token ‘iFUND’ is required to pay for Fund entry fee’s set by the Fund Manager."
+      },
+      {
+        "heading": "Launch the Unifund Platform and Connect Digital Wallet",
+        "paragraph": "We support most major digital wallets. Make sure you’ve added our iFund token using the official contract address: <strong> 0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0 </strong>"
+      },
+      {
+        "heading": "Browse Fund Listings and Select the Open Fund that perfectly suits your Risk / Reward profile and investment goals.",
+        "paragraph": "Social Trade Groups, or ‘Funds’ are the central point of generative value within our contract system’s design. Utilized wisely, participation in these groups will save you both time and money, eliminating trading fees and consolidating high-stakes decision-making. This opt-in group structure also aligns the incentives of previously competing traders, creating an interesting middle ground where collaboration leads to greater profits for all."
+      },
+      {
+        "heading": "Pay Entry Fee + Invest your Stake, and voila - <span class=\"accent-color\">you’re in!</span>",
+        "paragraph": "Once you’re transferred your capital + paid fund entry fee, you can request on-demand statistics of your funds asset allocation and fund managers performance expressed as a PNL% by the Unifund Community Telegram and Unifund Fund Performance Channel."
+      }
+    ]
+  },
+  "SECTION_FOR_MANAGERS": {
+    "TITLE": "Unifund For Fund Managers",
+    "INTRO": "The skill of Cryptocurrency trading is truly an artform, and many experienced traders have invested years of their time, and individual capital into developing their craft and earning consistent, steady profits while building a strong portfolio. <br/><br/> With Unifunds incentivized trade groups, any skilled trader can instantly become a Fund Manager and leverage pooled capital to yield higher profits, reduce market competition and earn a sizeable profit take % at fund maturity - will you be the next to claim the fame as Top Fund Manager on the Global Unifund Leaderboard!",
+    "BECOME_INVESTOR": "Become a Fund Manager | How to Create a Fund",
+    "BULLETS": [{
+        "heading": "Get $iFUND <a href=\"https://bit.ly/myIFUND\" target=\"_blank\">bit.ly/myIFUND</a>",
+        "paragraph": "Our native token ‘iFUND’ will act as the collateral for the Funds ‘Stake Ratio’. This ratio determines how investors grade the risk profile by comparing the value of the leaders iFUND collateral, to the value of the ETH the group will trade with on the Uniswap Protocol."
+      },
+      {
+        "heading": "Launch the Unifund Platform and Connect Digital Wallet",
+        "paragraph": "We support most major digital wallets. Make sure you’ve added our iFund token using the official contract address: <strong> 0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0 </strong>"
+      },
+      {
+        "heading": "Select Create Group and Build your Fund",
+        "paragraph": "Our innovative Social Trade Groups, or ‘Funds’ are the central point of generative value within our contract system’s design. Utilized wisely, proper creation of your Fund will earn you a sizable profit-take % and contribute to your leaderboard statistics while lowering trading fees as you leverage pooled capital to maximize larger profits. We have equipped the Fund creation process with unique metrics allowing you the opportunity to align incentives and risk profiles of interested investors and inform them of your trading style or strategy for the fund."
+      },
+      {
+        "heading": "Stake Your Collateral + Publish your Fund Listing",
+        "paragraph": "Once you’ve transferred your collateral ( it’s optional as a fund manager to invest / contribute to your own fund, do so are you please) and are satisfied with the risk profile you have built, click Create to publish your fund to the Unifund Directory and begin attracting investors to your fund."
+      }
+    ]
+  },
+  "WHITEPAPER": "Whitepaper",
+  "BUY_ON_UNISWAP": "Exchange iFund",
+  "GET_ACCESS_TO_SEASONED_TRADERS": "Join a Group and get access to professional and seasoned traders.",
+  "$UPP": "iFUND",
+  "LAUNCH_APP": "Launch Platform",
+  "SECTION_FAQ": {
+    "HEADER": "Frequently Asked Questions",
+    "QA": [{
+        "QUESTION": "What will you do if this contract breaks?",
+        "ANSWER": "If such a circumstance arises, we will migrate to a new contract and send all users the new token at a 1:1 ratio."
+      },
+      {
+        "QUESTION": "How do I know which groups are safe to join?",
+        "ANSWER": "Managers will develop reputation over time, and the Trade List should be carefully checked before joining any Trade Group. Groups with more iFUND staked by the Fund Manager compared to the value of ETH collected offer a better risk-to-reward ration for users."
+      },
+      {
+        "QUESTION": "Who are you and why are you remaining anonymous?",
+        "ANSWER": "We are releasing our fully functional system and want the focus to be on hte product and not its creators."
+      },
+      {
+        "QUESTION": "Why are you doing a sale instead of letting us yield farm for distribution?",
+        "ANSWER": "Yield farming systems disproportionately reward whales, so we consider a sale significantly fairer."
+      },
+      {
+        "QUESTION": "Why don’t you have a burn mechanic?",
+        "ANSWER": "Burns inflate the cost of transactions, and we don’t believe they have much effect outside marketing."
+      },
+      {
+        "QUESTION": "Is this system sustainable long term?",
+        "ANSWER": "The functionality of this product is designed for bull markets, but we have plans to enable short trades before the market turns down."
+      },
+      {
+        "QUESTION": "Can this be used to scam people?",
+        "ANSWER": "If it gets popular, we’re sure scammers will try, just as they have with Uniswap. This is the reason for the front-end delay: we aim to do as much as possible to protect our users."
+      }
+    ]
+  },
+  "MARKETING": "Marketing",
+  "CONTEST": "Contest",
+  "PRE_SALE": "Pre-Sale",
+  "UNISWAP_LIQUIDITY_LOCK": "Liquidity Lock",
+  "TEAM_ALLOCATION": "Team Allocation",
+  "STAKING_POOL": "Staking Pool"
+}
