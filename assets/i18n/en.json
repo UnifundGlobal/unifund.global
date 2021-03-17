@@ -273,10 +273,6 @@
         "ANSWER": "Yield farming systems disproportionately reward whales, so we consider a sale significantly fairer."
       },
       {
-        "QUESTION": "Why don’t you have a burn mechanic?",
-        "ANSWER": "Burns inflate the cost of transactions, and we don’t believe they have much effect outside marketing."
-      },
-      {
         "QUESTION": "Is this system sustainable long term?",
         "ANSWER": "The functionality of this product is designed for bull markets, but we have plans to enable short trades before the market turns down."
       },
@@ -291,5 +287,20 @@
   "PRE_SALE": "Pre-Sale",
   "UNISWAP_LIQUIDITY_LOCK": "Liquidity Lock",
   "TEAM_ALLOCATION": "Team Allocation",
-  "STAKING_POOL": "Staking Pool"
+  "STAKING_POOL": "Staking Pool",
+
+  "name": "Fund / Manager",
+  "Smallname": "Fund",
+  "total contribution": "Started",
+  "pnl": "PnL",
+  "currentEth": "Current",
+  "current eth": "Current",
+  "current $": "Current $ Pnl",
+  "dailypnlEth": "1d",
+  "weeklypnlEth": "1w",
+  "status": "",
+  "goto-manager": "View manager",
+  "goto-app": "View fund details",
+  "welcome to unifund leaderbaords": "Welcome to Unifund Leaderboards",
+  "leaderboards-sub": "Here you can follow all funds and their Profit and Loss"
 }
