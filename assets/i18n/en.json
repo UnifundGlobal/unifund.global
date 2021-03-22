@@ -293,7 +293,7 @@
   "current eth": "Current",
   "current $": "Current $ Pnl",
   "dailypnlEth": "1d",
-  "weeklypnlEth": "1w",
+  "weeklyPnlETH": "1w",
   "status": "",
   "goto-manager": "View manager",
   "goto-app": "View fund details",
