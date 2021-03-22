@@ -265,16 +265,12 @@
         "ANSWER": "Managers will develop reputation over time, and the Trade List should be carefully checked before joining any Trade Group. Groups with more iFUND staked by the Fund Manager compared to the value of ETH collected offer a better risk-to-reward ration for users."
       },
       {
-        "QUESTION": "Who are you and why are you remaining anonymous?",
-        "ANSWER": "We are releasing our fully functional system and want the focus to be on hte product and not its creators."
-      },
-      {
         "QUESTION": "Why are you doing a sale instead of letting us yield farm for distribution?",
         "ANSWER": "Yield farming systems disproportionately reward whales, so we consider a sale significantly fairer."
       },
       {
         "QUESTION": "Is this system sustainable long term?",
-        "ANSWER": "The functionality of this product is designed for bull markets, but we have plans to enable short trades before the market turns down."
+        "ANSWER": "The functionality of this product is designed for bull markets."
       },
       {
         "QUESTION": "Can this be used to scam people?",
